@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/a/</loc>
+    <loc>https://adbrei.github.io/testsite/tags/a/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/c/</loc>
+    <loc>https://adbrei.github.io/testsite/tags/c/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/firstpost/</loc>
+    <loc>https://adbrei.github.io/testsite/posts/firstpost/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://adbrei.github.io/testsite/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://adbrei.github.io/testsite/posts/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://adbrei.github.io/testsite/tags/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://adbrei.github.io/testsite/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://adbrei.github.io/testsite/categories/</loc>
   </url>
 </urlset>

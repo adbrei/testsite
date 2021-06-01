@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Test Site</title>
-    <link>http://example.org/tags/</link>
+    <link>https://adbrei.github.io/testsite/tags/</link>
     <description>Recent content in Tags on My Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adbrei.github.io/testsite/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a</title>
-      <link>http://example.org/tags/a/</link>
+      <link>https://adbrei.github.io/testsite/tags/a/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/a/</guid>
+      <guid>https://adbrei.github.io/testsite/tags/a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c</title>
-      <link>http://example.org/tags/c/</link>
+      <link>https://adbrei.github.io/testsite/tags/c/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/c/</guid>
+      <guid>https://adbrei.github.io/testsite/tags/c/</guid>
       <description></description>
     </item>
     
