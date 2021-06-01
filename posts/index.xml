@@ -16,5 +16,14 @@
       <description>Introduction This is my first test post.</description>
     </item>
     
+    <item>
+      <title>Second Post</title>
+      <link>https://adbrei.github.io/testsite/posts/secondpost/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adbrei.github.io/testsite/posts/secondpost/</guid>
+      <description>I Am Back This is my second test post.</description>
+    </item>
+    
   </channel>
 </rss>
