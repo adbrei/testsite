@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Second Post</title>
+      <link>https://adbrei.github.io/testsite/posts/thirdpost/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adbrei.github.io/testsite/posts/thirdpost/</guid>
+      <description>Hello, again! This is my third test post.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://adbrei.github.io/testsite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
